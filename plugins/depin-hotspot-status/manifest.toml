@@ -1,0 +1,7 @@
+name = "depin-hotspot-status"
+version = "0.1.0"
+description = "T0: Query Helium/Hivemapper hotspot online status, total rewards earned, and 7-day earnings via public RPC"
+author = "redisinaga"
+wasm_path = "depin_hotspot_status.wasm"
+capabilities = ["tool"]
+permissions = ["http_client"]
