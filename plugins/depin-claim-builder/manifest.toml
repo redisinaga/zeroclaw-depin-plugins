@@ -1,0 +1,7 @@
+name = "depin-claim-builder"
+version = "0.1.0"
+description = "T1: Build unsigned Helium rewards claim transaction. Returns base64 tx + Solana Pay URL. Human signs."
+author = "redisinaga"
+wasm_path = "depin_claim_builder.wasm"
+capabilities = ["tool"]
+permissions = ["http_client"]
