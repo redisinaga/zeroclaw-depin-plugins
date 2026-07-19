@@ -1,0 +1,7 @@
+name = "depin-network-health"
+version = "0.1.0"
+description = "T0: Monitor DePIN network health — epochs, reward rates, online hotspots, uptime. Helium IoT/Mobile + Hivemapper."
+author = "redisinaga"
+wasm_path = "depin_network_health.wasm"
+capabilities = ["tool"]
+permissions = ["http_client"]
